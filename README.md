@@ -85,4 +85,35 @@ To design and implement a reproducible workflow that:
 
 ---
 
-## 📁 Repository Structure
+
+---
+
+## 🚀 Future Improvements
+- Cross-subject classification
+- Advanced feature extraction (CSP, connectivity metrics)
+- Cross-validation strategies
+- Deep learning models (e.g., EEGNet)
+- Physiological analysis of alpha dominance
+
+---
+
+## 📜 References
+- Gramfort et al., *MNE for EEG and MEG analysis*, NeuroImage
+- OpenNeuro: https://openneuro.org
+- scikit-learn documentation
+
+---
+
+## 🤝 Acknowledgments
+Thanks to the **OpenNeuro** and **MNE-Python** communities for providing open tools and datasets that make reproducible neuroscience research possible.
+
+---
+
+## 👤 Author
+**Abdullah bin Masood**  
+Machine Learning & Neuroinformatics Enthusiast
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
+
